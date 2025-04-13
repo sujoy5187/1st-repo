@@ -29,3 +29,7 @@ else:
         n2=int(input("Enter number:"))
         divide/=n2
  print(divide)
+ 
+print("Thank You")
+ 
+ 
